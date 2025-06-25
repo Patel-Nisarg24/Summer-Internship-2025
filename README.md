@@ -53,8 +53,6 @@ This internship report documents my journey as a Data Analytics intern at Nivida
 - Implemented state-wise visualization and filters
 - Optimized dashboards with geographical data
 
-- Final presentation and documentation
-
 ## 📊 3. Project 1: Power BI Supply Chain Analytics Report
 
 ### Project Overview
